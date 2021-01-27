@@ -1,4 +1,4 @@
-# ALX-ZERO_DAY
+# alx-zero_day
 
 Repository for day 0 projects for ALX.
 
