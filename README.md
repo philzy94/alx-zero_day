@@ -1,6 +1,6 @@
 # alx-zero_day
 
-Repository for day 0 projects for ALX.
+Repository for day 0 projects.
 
 # Description
 
